@@ -57,7 +57,7 @@ export default {
     },
 
     speak () {
-      this.playByText("ja-JP", "禿です！禿です！禿です！")
+      this.playByText("en-US", "Now, It's time!")
 //      setTimeout(() => this.playByText("en-US", "Hello, world"), 300)
     }
   },

@@ -9,7 +9,7 @@
         class="headline grey lighten-2 subtitle-1"
         primary-title
       >
-        <span> お薬タイマー </span>
+        <span> Medicine Timer </span>
       </v-card-title>
       <v-card-text>
         <v-container>
