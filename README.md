@@ -1,7 +1,7 @@
 # how-many-signal
 
 ## What is this?
-This is a web application I made for my wife who needs to apply three types of eye drops at 5-minute intervals but cannot remember how many types of eye drops she applies.
+This is a medicine timer web application I made for my wife who needs to apply three types of eye drops at 5-minute intervals but cannot remember how many types of eye drops she applies.
 
 ## Where can I use this app?
 how-many-signal.pages.dev
