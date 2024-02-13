@@ -20,6 +20,8 @@ export default {
       links: [
         { icon: 'home', text: 'Home', route: '/'}, 
         { icon: 'mdi-cog', text: 'Settings', route: '/settings'},
+        { icon: 'code', text: 'Code', route: '/code'},
+        { icon: 'description', text: 'Document', route: '/document'},
       ]
     }
   },
